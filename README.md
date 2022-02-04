@@ -1,9 +1,7 @@
 # Description
 This repository provides Jupyter notebooks showing steps in the reconstruction of data presented in Fig. 1 and Fig. 3 of the manuscript
 
-```
- Ivan E. Ivanov, Li-Hao Yeh, Juan A. Perez-Bermejo, Janie R. Byrum, James Y.S. Kim, Manuel D. Leonetti, and Shalin B. Mehta, "Correlative imaging of spatio-angular architecture of live cells and molecular assemblies with multimodal instant polarization microscope" (2022)
-```
+`Ivan E. Ivanov, Li-Hao Yeh, Juan A. Perez-Bermejo, Janie R. Byrum, James Y.S. Kim, Manuel D. Leonetti, and Shalin B. Mehta, "Correlative imaging of spatio-angular architecture of live cells and molecular assemblies with multimodal instant polarization microscope" (2022).`
 
 # Requirements
 The notebooks use the [waveorder](https://github.com/mehta-lab/waveorder) package for data reconstruction and [napari](https://napari.org/) for data visualization.
