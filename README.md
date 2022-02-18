@@ -17,7 +17,7 @@ and install the following packages:
 
 ```
 conda install jupyter scikit-image
-pip install git://github.com/mehta-lab/waveOrder.git@instrument_tensor#egg=waveorder  
+pip install git://github.com/mehta-lab/waveOrder.git#egg=waveorder  
 pip install napari napari-ome-zarr
 ```
 
